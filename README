@@ -1,0 +1,7 @@
+Small utility to benchmark DNS servers.  Base DNS record code
+borrowed from http://mowyourlawn.com/blog/?p=8 .  
+
+Just something I whipped up to compare response times for 2 DNS providers.
+Keep in mind, your distance to the NS will affect the time (ping).
+
+
